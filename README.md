@@ -80,6 +80,19 @@ Users can dynamically filter the dashboard by:
 #### Microsoft Excel (Advanced): 
 For data cleaning, analysis, and dashboard creation using Pivot Tables, Charts, Slicers, and Formulas.
 
+## Process:
+
+- Cleaned and prepared data in Excel.
+
+- Created KPIs for Product Sales, Purchases, and Revenue.
+
+- Built charts for Product-wise Sales, Weekday Sales, Monthly Revenue, and Working Hours vs Sales.
+
+- Added filters for Time of Day, Weekday, and Month using Excel slicers.
+
+ ## Outcome:
+  Easy-to-use interactive dashboard showing sales trends and best-selling products.
+
 ## Dashboard Snapshots
 ### Charts:
 - <a href= "https://github.com/swetha0121/Coffee-Shop-Sale-Data-Analysis-dashboard/blob/main/Dashboard/Productwise%20Sale%20Screenshot.jpg">Productwise Sales chart</a>
