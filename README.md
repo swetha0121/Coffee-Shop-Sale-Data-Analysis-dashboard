@@ -9,7 +9,7 @@ The purpose of this project is to examine and present Coffee Shop Sales Data to 
 
 ## Dataset Information
 
-### Dataset name: #### Coffee Shop Sales
+### Dataset name:  Coffee Shop Sales
 ### Columns included:
 
 #### Column Name      :           	Description
@@ -60,3 +60,22 @@ The purpose of this project is to examine and present Coffee Shop Sales Data to 
 - At what hours do sales peak during the day?
 
 - How does staff scheduling align with high sales hours?
+
+## Dashboard Features
+
+The dashboard includes: KPIs for (Product, Purchase, and Sales), Productwise Sales chart, Weekday Sales chart, Monthly Revenue trend, Working Hours vs Sales analysis.
+
+## Filters Available
+
+Users can dynamically filter the dashboard by:
+
+- Time of Day: Morning / Afternoon / Night
+
+- Weekday
+
+- Month
+
+  ## Tools Used
+
+#### Microsoft Excel (Advanced): 
+For data cleaning, analysis, and dashboard creation using Pivot Tables, Charts, Slicers, and Formulas.
