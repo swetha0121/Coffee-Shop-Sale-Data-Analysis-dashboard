@@ -88,3 +88,7 @@ For data cleaning, analysis, and dashboard creation using Pivot Tables, Charts, 
 - <a href= "https://github.com/swetha0121/Coffee-Shop-Sale-Data-Analysis-dashboard/blob/main/Dashboard/Workinghours%20vs%20Revenue%20Screenshot.jpg">Working Hours vs Revenue chart</a>
 ### Dashboard:
 - <a href= "https://github.com/swetha0121/Coffee-Shop-Sale-Data-Analysis-dashboard/blob/main/Dashboard/Dashboard%20Screenshot.jpg">Dashboard</a>
+
+## Conclusion
+
+This dashboard provides valuable insights for coffee shop management — helping optimize product availability, staff scheduling, and marketing strategies based on real-time sales data.
