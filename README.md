@@ -63,7 +63,7 @@ The purpose of this project is to examine and present Coffee Shop Sales Data to 
 
 ## Dashboard Features
 
-The dashboard includes: KPIs for (Product, Purchase, and Sales), Productwise Sales chart, Weekday Sales chart, Monthly Revenue trend, Working Hours vs Sales analysis.
+The dashboard includes: KPIs for (Product, Purchase, and Sales), Productwise Sales chart, Weekday Sales chart, Monthly Revenue trend, Working Hours vs Revenue analysis.
 
 ## Filters Available
 
@@ -79,3 +79,12 @@ Users can dynamically filter the dashboard by:
 
 #### Microsoft Excel (Advanced): 
 For data cleaning, analysis, and dashboard creation using Pivot Tables, Charts, Slicers, and Formulas.
+
+## Dashboard Snapshots
+### Charts:
+- <a href= "https://github.com/swetha0121/Coffee-Shop-Sale-Data-Analysis-dashboard/blob/main/Dashboard/Productwise%20Sale%20Screenshot.jpg">Productwise Sales chart</a>
+- <a href= "https://github.com/swetha0121/Coffee-Shop-Sale-Data-Analysis-dashboard/blob/main/Dashboard/Weekly%20Sale%20Screenshot.jpg">Weekday Sales chart</a>
+- <a href= "https://github.com/swetha0121/Coffee-Shop-Sale-Data-Analysis-dashboard/blob/main/Dashboard/Monthly%20Revenue%20Screenshot.jpg">Monthly Revenue chart</a>
+- <a href= "https://github.com/swetha0121/Coffee-Shop-Sale-Data-Analysis-dashboard/blob/main/Dashboard/Workinghours%20vs%20Revenue%20Screenshot.jpg">Working Hours vs Revenue chart</a>
+### Dashboard:
+- <a href= "https://github.com/swetha0121/Coffee-Shop-Sale-Data-Analysis-dashboard/blob/main/Dashboard/Dashboard%20Screenshot.jpg">Dashboard</a>
