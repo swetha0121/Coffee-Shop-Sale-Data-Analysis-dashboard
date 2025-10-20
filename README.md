@@ -9,10 +9,10 @@ The purpose of this project is to examine and present Coffee Shop Sales Data to 
 
 ## Dataset Information
 
-### Dataset name: Coffee Shop Sales
+### Dataset name: #### Coffee Shop Sales
 ### Columns included:
 
-Column Name      :           	Description
+#### Column Name      :           	Description
 - money          :     Total sales/revenue for each transaction
 - coffee_name    :    	Type of coffee sold
 - Time_of_Day    :	    Morning, Afternoon, or Night
